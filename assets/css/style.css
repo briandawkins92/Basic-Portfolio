@@ -51,7 +51,7 @@ a:visited{
 }
 .para{
     margin:10px;
-    font-color:#777777;
+    color:#777777;
     font-family: Arial, Helvetica, sans-serif;
 }
 #aside{
@@ -76,7 +76,6 @@ a:visited{
     padding-top:25px;
     right:0;
     left:0;
-    
 }
 
 /*End CSS*/
