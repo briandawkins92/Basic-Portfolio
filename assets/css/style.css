@@ -1,20 +1,82 @@
 /*Start CSS*/
 
-#fixed{
-    
-    margin:0px;
+.header{
+    float:left;
     padding:25px;
     width:300px;
     color:white;
     background-color:#4aaaa5;
     font-family:Georgia;
-    text-align:center; 
+    text-align:center;   
+    margin-top:0px;
+    margin-left:150px;
+    margin-bottom:0px;
 }
 #relative{
-    position: relative;
     float: right;
-    top:0;
+    background-color:white;
+    margin-right:350px;
+    margin-top:65px;
+}
+a:link{
+    text-decoration:none;
+    color:black;
+}
+a:visited{
+    text-decoration:none;
+    color:black;
 }
 
+.body{
+    background-color:#ffffff;
+    border: black;
+    border-style:solid;
+    border-width:0.5px;
+    width:650px;
+    float:left;
+    position:absolute;
+    left:150px;
+    top:150px;
+}
+.aboutMe{
+    color:#4aaaa5;
+    margin:10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.image{
+    float:left;
+    margin:20px;
+    margin-top:0px;
+    margin-bottom:0px;
+}
+.para{
+    margin:10px;
+    font-color:#777777;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#aside{
+    background-color:#ffffff;
+    float:right;
+    position:absolute;
+    top:150px;
+    right:230px;
+    border: black;
+    border-style:solid;
+    border-width:0.5px;
+}
+#footer{
+    background-color:#666666;
+    float:left;
+    text-align:center;
+    font-size:10px;
+    color:#ffffff;
+    height:40px;
+    position:absolute;
+    top:600px;
+    padding-top:25px;
+    right:0;
+    left:0;
+    
+}
 
 /*End CSS*/
