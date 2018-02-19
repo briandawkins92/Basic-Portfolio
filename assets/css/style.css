@@ -1,0 +1,20 @@
+/*Start CSS*/
+
+#fixed{
+    
+    margin:0px;
+    padding:25px;
+    width:300px;
+    color:white;
+    background-color:#4aaaa5;
+    font-family:Georgia;
+    text-align:center; 
+}
+#relative{
+    position: relative;
+    float: right;
+    top:0;
+}
+
+
+/*End CSS*/
