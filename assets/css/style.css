@@ -101,5 +101,26 @@ a:visited{
     right:0;
     left:0;
 }
-
+#portfolio{
+    background-image: url("file:///Users/briandawkins/Documents/homework/assignment1/Basic-Portfolio/assets/images/background.png");
+    float:left;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.image{
+    float:left;
+    border: 10px pink;
+}
+#contact{
+    float:left;
+    position:absolute;
+    left:100px;
+    top:150px;
+    width:650px;
+    border: lightgray;
+    border-width: 1px;
+    border-style: solid;
+    background-color:white;
+    padding:20px;
+}
 /*End CSS*/
