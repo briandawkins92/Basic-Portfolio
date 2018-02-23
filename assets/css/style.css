@@ -13,10 +13,10 @@
     margin-bottom:0px;
 }
 #body{
-    background-image: url("assets/images/background.png");
+    background-image: url("file:///Users/briandawkins/Documents/homework/assignment1/Basic-Portfolio/assets/images/background.png");
 }
 #head{
-    background-image: url("assets/images/topbackground.png");
+    background-image: url("file:///Users/briandawkins/Documents/homework/assignment1/Basic-Portfolio/assets/images/topbackground.png");
     z-index: -1; 
     margin-bottom:150px;
     padding-bottom:95px;
