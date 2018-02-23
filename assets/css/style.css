@@ -87,6 +87,7 @@ a:visited{
     border-bottom: #dddddd;
     border-bottom-width: 5px;
     border-bottom-style: solid;
+    padding-bottom: 25px;
 }
 .image{
     float:left;
@@ -116,7 +117,7 @@ a:visited{
 }
 .miscBorder{
     border-bottom: #dddddd;
-    border-bottom-width: 5px;
+    border-bottom-width: 2px;
     border-bottom-style: solid;
     margin-top:0px;
 }
@@ -152,10 +153,10 @@ a:visited{
     position:absolute;
     left:150px;
     top:50px;
-    height:450px;
+    height:500px;
     width: 650px;
     padding:20px;
-    column-count:1; 
+    column-count:2; 
     column-width:325px;
     position: relative;
     align-content:center;
@@ -166,6 +167,7 @@ a:visited{
     margin-left:150px;
     top:150px;
     width: 650px;
+    height:450px;
     border: #dddddd;
     border-width: 1px;
     border-style: solid;
