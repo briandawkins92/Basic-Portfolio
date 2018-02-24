@@ -12,9 +12,7 @@
     margin-left:150px;
     margin-bottom:0px;
 }
-#body{
-    background-image: url("file:///Users/briandawkins/Documents/homework/assignment1/Basic-Portfolio/assets/images/background.jpg");
-}
+
 #head{
     background-color: #ffffff;
     z-index: -1; 
@@ -139,7 +137,6 @@ a:visited{
     border-top-style: solid;
 }
 #portfolio{
-    background-image: url("file:///Users/briandawkins/Documents/homework/assignment1/Basic-Portfolio/assets/images/background.png");
     float:left;
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
